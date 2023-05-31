@@ -13,6 +13,13 @@
 
 -------
 
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+-------
+
 <p align="center">
   <a href="https://github.com/qclaogui/qclaogui">
     <img src="https://komarev.com/ghpvc/?username=qclaogui&label=Profile+views" />

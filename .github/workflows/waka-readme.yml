@@ -10,7 +10,7 @@ on:
 
 # Sets permissions of the WakaReadme to allow update Repo contents
 permissions:
-  contents: read|write
+  contents: write
   
 jobs:
   update-readme:

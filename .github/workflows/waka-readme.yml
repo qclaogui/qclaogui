@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
 
+# Sets permissions of the WakaReadme to allow update Repo contents
+permissions:
+  contents: read|write
+  
 jobs:
   update-readme:
     name: Update WakaReadme DevMetrics

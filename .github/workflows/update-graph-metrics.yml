@@ -1,9 +1,6 @@
-name: Waka Readme
+name: Update Weekly DevMetrics
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch: # for manual workflow trigger
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
@@ -14,7 +11,7 @@ permissions:
   
 jobs:
   update-readme:
-    name: Update WakaReadme DevMetrics
+    name: Updated graph in README.md with new metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master

@@ -5,7 +5,6 @@
   <a href="mailto:qclaogui@gmail.com">Gmail</a>
 </p>
 
-- 🔭 ~~I’m working at [BLUECITY](https://www.bluecity.com) in the Infra Team~~
 - 🌱 I’m currently learning more on Application Monitoring and Observability
 - 💬 Ask me about **Go, Kustomize and Kubernetes**
 - 📫 How to reach me: <a href="mailto:qclaogui@gmail.com">Send Me An Email</a>

@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 0' # Once every Sunday
+permissions:
+    contents: write
+
+jobs:
+  update-latest-blog:
+    name: Update README.md with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 5
+          feed_list: "https://qclaogui.github.io/blog/index.xml"
+          feed_names: "qc's Blog Post"
+          committer_username: "🤖GitHub Actions[Bot]"
+          committer_email: qclaogui@gmail.com

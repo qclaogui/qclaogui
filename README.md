@@ -10,15 +10,14 @@
 - 📫 How to reach me: <a href="mailto:qclaogui@gmail.com">Send Me Email</a>
 - 😄 Pronouns: he/him
 - 🧑‍💻 Tech I work on :
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="65" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="65" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-</p>
+  <p align="left">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="60" height="55"/> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="60" height="55"/> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+  </p>
 
 -------
 

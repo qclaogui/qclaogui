@@ -24,7 +24,7 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog: Easy documentation with Docsy](https://qclaogui.github.io/blog/2018/10/06/easy-documentation-with-docsy/)
+- [Blog: Easy documentation with Docsy](https://qclaogui.github.io/blog/news/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 -------

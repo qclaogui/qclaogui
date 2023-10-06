@@ -34,10 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL               6 mins          ███████████▒░░░░░░░░░░░░░   45.92 %
-Go                5 mins          ██████████▒░░░░░░░░░░░░░░   40.81 %
-Markdown          1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

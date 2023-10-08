@@ -34,7 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                21 mins         ███████████▒░░░░░░░░░░░░░   45.62 %
+Protocol Buffer   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+YAML              11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+ActionScript 3    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

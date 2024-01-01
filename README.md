@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                36 hrs 17 mins  ██████████████████░░░░░░░   71.72 %
-YAML              5 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Makefile          4 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Protocol Buffer   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-protobuf          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Go                36 hrs 8 mins   ███████████████████▓░░░░░   78.78 %
+YAML              3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Makefile          1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Protocol Buffer   1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+protobuf          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->

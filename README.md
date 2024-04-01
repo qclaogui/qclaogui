@@ -2,30 +2,20 @@
 
 <h2 align="center"> Hi there <img src="https://github.com/qclaogui/qclaogui/assets/17244565/e26bbd40-de63-4001-9f93-918ea366bb3b" width="25px" alt="👋"> I'm <a href="https://github.com/qclaogui">@qc</a></h2>
 <p align="center">
-  <samp>( "👨‍💻 <a href="https://qclaogui.github.io/blog/">Blog</a>" | "☁️ <a href="https://twitter.com/qclaogui">Twitter</a>" | "💼 <a href="mailto:qclaogui@gmail.com">Gmail</a>" )</samp>
+  <samp>( "👨‍💻 <a href="https://qclaogui.github.io/blog/">Blog</a>" | "☁️ <a href="https://twitter.com/qclaogui">Twitter</a>" | "📫 <a href="mailto:qclaogui@gmail.com">Gmail</a>" )</samp>
 </p>
 
 - 🌱 I’m currently learning more on Application Monitoring and Observability
 - 💬 Ask me about **Go, Kustomize and Kubernetes**
-- 📫 How to reach me: <a href="mailto:qclaogui@gmail.com">Send Me Email</a>
 - 😄 Pronouns: he/him
-- 🧑‍💻 Tech I work on :
-  <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="60" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="60" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-  </p>
 
-<!-- -------
+-------
 
 <p align="center">
   <a href="https://github.com/qclaogui">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qclaogui&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qclaogui&custom_title=GitHub%20Stats&show_icons=true&rank_icon=github&theme=transparent&count_private=true&include_all_commits=true&hide_border=true" />
   </a>
-</p> -->
+</p>
 
 -------
 

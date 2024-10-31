@@ -32,11 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile          42 mins         ████████░░░░░░░░░░░░░░░░░   32.49 %
-YAML              21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Protocol Buffer   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Go                18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-protobuf          15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

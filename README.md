@@ -32,7 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML                       28 mins         █████████████████████▓░░░   86.30 %
+Other                      4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->

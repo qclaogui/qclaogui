@@ -32,7 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       50 mins         █████████████████░░░░░░░░   67.69 %
+Bash       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+JSON       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->

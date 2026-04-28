@@ -32,9 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   16 mins               █████████████████████████   99.56 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

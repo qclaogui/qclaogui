@@ -32,10 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML               1 hr 21 mins          ███████████████████▓░░░░░   79.33 %
-Pickle             11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Bash               9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-reStructuredText   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+YAML               1 hr 24 mins          ██████████████████████▓░░   90.08 %
+Bash               9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+reStructuredText   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

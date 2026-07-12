@@ -32,7 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   8 mins                █████████████████████████   100.00 %
+YAML       34 mins               ████████████████████████▓   99.23 %
+Makefile   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
